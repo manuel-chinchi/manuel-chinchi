@@ -2,6 +2,10 @@ Hola, me llamo Manuel y soy de Argentina. Me gusta programar y compartir lo que 
 
 Estos son algunos de mis proyectos, espero le sirva.
 
+<details>
+
+<summary>Tabla de proyectos</summary>
+
 |     **PROYECTO**     |   **PLATAFORMA**  | **ESTADO** |    **DETALLES**    | **LIBRERIAS USADAS**                                                              |                         **REPOSITORIO**                        |
 |:--------------------:|:-----------------:|:----------:|:------------------:|----------------------------------------------------------------------------------------|:--------------------------------------------------------------:|
 | crud-mvc-aspnet      |        Web        | terminado  | .Net Framework 4.5 | - Entity Framework<br>- DataTables                                                     | [link](https://github.com/manuel-chinchi/crud-mvc-aspnet)	      |
@@ -10,5 +14,7 @@ Estos son algunos de mis proyectos, espero le sirva.
 | crud-blazor          |        Web        | avanzado   | .Net Core 3.1      | - Entity Framework<br>- SweetAlert2<br>- CsvHelper<br>- EPPlus<br>- iText (ItextSharp) | [link](https://github.com/manuel-chinchi/crud-blazor)          |
 | crud-xamarin-android |  Mobile (Android) | avanzado   | -                  | - sqlite-net-pcl                                                                       | [link](https://github.com/manuel-chinchi/crud-xamarin-android) |
 | crud-maui-android    |  Mobile (Android) | en curso   | .Net 7             |                                                                                        | [link](https://github.com/manuel-chinchi/crud-maui-android)    |
+
+</details>
 
 Aclaración: Algunos proyectos que estén en estado "terminado" pueden aún recibir alguna que otra corrección pero por lo general se consideran proyectos maduros para ser usados como proyectos base.
