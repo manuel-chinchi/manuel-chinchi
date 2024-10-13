@@ -14,6 +14,7 @@ Estos son algunos de mis proyectos, espero le sirva.
 | crud-blazor          |        Web        | avanzado   | .Net Core 3.1      | - Entity Framework<br>- SweetAlert2<br>- CsvHelper<br>- EPPlus<br>- iText (ItextSharp) | [link](https://github.com/manuel-chinchi/crud-blazor)          |
 | crud-xamarin-android |  Mobile (Android) | avanzado   | -                  | - sqlite-net-pcl                                                                       | [link](https://github.com/manuel-chinchi/crud-xamarin-android) |
 | crud-maui-android    |  Mobile (Android) | en curso   | .Net 7             |                                                                                        | [link](https://github.com/manuel-chinchi/crud-maui-android)    |
+| crud-vb6             | Desktop (Windows) | en curso   | VB6                |                                                                                        | [link](https://github.com/manuel-chinchi/crud-vb6)    |
 
 </details>
 
