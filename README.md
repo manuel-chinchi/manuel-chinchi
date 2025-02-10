@@ -1,4 +1,4 @@
-Hola, me llamo Manuel y soy de Argentina. Me gusta programar y compartir lo que hago con otros desarrolladores. Todos los proyectos que están en mi perfil son de libre uso, solamente se pide citar al autor y poner enlace al proyecto original (o al menos una pequeña mención). 
+Hola, me llamo Manuel y soy de Argentina. Me gusta programar y compartir lo que hago con otros desarrolladores. Todos los proyectos que están en mi perfil son de uso libre, solamente se pide citar al autor y poner enlace al proyecto original (o al menos una pequeña mención). 
 
 Estos son algunos de mis proyectos, espero le sirva.
 
