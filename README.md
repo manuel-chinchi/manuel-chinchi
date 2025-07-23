@@ -1,6 +1,4 @@
-Hola, me llamo Manuel y soy de Argentina. Me gusta programar y compartir lo que hago con otros desarrolladores. Todos los proyectos que están en mi perfil son de uso libre, solamente se pide citar al autor y poner enlace al proyecto original (o al menos una pequeña mención). 
-
-Estos son algunos de mis proyectos, espero le sirva.
+Hola, me llamo Manuel y soy de Argentina. Me gusta programar y compartir lo que hago con otros desarrolladores. Aquí pueden ver algunos mis proyectos, espero les sirva.
 
 <details>
 
@@ -20,3 +18,5 @@ Estos son algunos de mis proyectos, espero le sirva.
 </details>
 
 Aclaración: Algunos proyectos que estén en estado "terminado" pueden aún recibir alguna que otra corrección pero por lo general se consideran proyectos maduros para ser usados como proyectos base.
+
+contacto: [email](manuel.chinchi93@gmail.com)
