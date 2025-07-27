@@ -19,4 +19,3 @@ Hola, me llamo Manuel y soy de Argentina. Me gusta programar y compartir lo que 
 
 Aclaración: Algunos proyectos que estén en estado "terminado" pueden aún recibir alguna que otra corrección pero por lo general se consideran proyectos maduros para ser usados como proyectos base.
 
-contacto: [email](manuel.chinchi93@gmail.com)
