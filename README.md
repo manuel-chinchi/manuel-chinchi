@@ -1,4 +1,4 @@
-Hola, me llamo Manuel y soy de Argentina. Me gusta programar y compartir lo que hago con otros desarrolladores. Aquí pueden ver algunos mis proyectos, espero les sirva.
+Hola, mi nombre es Manuel Chinchi y soy de Argentina. Me gusta programar y compartir lo que hago con otros desarrolladores. Aquí pueden ver algunos mis proyectos, espero les sirva.
 
 <details>
 
